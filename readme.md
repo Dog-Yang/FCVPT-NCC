@@ -3,7 +3,7 @@
 We propose Fusing Classifier and Visual Prompt Tuning (FCVPT) for fine-tuning VLMs with unlabeled data. The core of FCVPT lies in the fusion of classifier tuning and visual prompt tuning during the fine-tuning process, leading to mutual enhancement.
 Additionally, we introduce a Neighborhood Consistency Constraint (NCC) for robust self-training. NCC exploits similarities between training examples in the feature space, encouraging predictions for each example to closely align with those of its nearest neighbors. Empowered by FCVPT and NCC, our method, dubbed FCVPT-NCC, We provide the code for reproducing the results for all the 14 datasets used in our paper.
 
-![image](./images/Framework.jpg)
+![image](./Framework.jpg)
 
 ## Installation
 This repository requires to install the environment and datasets:
