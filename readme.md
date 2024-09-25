@@ -9,7 +9,7 @@ Additionally, we introduce a Neighborhood Consistency Constraint (NCC) for robus
 This repository requires to install the environment and datasets:
 - Code Base: Install `Dassl` library (under `FCVPT-NCC/`) in your environment by following the instructions [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorch#installation).
 - Package: To further install all other dependencies, please run: `pip install -r requirements.txt`
-- Dataset: Follow [DATASETS.md](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md) to install the datasets.
+- Dataset: Follow [DATASETS.md](https://github.com/KaiyangZhou/CoOp/blob/main/DATASETS.md) to install the datasets.
 
 *PS: You can also follow [CoOp](https://github.com/KaiyangZhou/CoOp) to perform the installation.*
 
