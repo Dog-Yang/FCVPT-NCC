@@ -14,9 +14,9 @@ This repository requires to install the environment and datasets:
 *PS: You can also follow [CoOp](https://github.com/KaiyangZhou/CoOp) to perform the installation.*
 
 ## Environment
-Python version: `3.8.10`; 
+Python Version: `3.8.10`; 
 
-CUDA PyTorch: `11.3`; 
+CUDA Version: `11.3`; 
 
 torch: `1.11.0+cu113`; 
 
